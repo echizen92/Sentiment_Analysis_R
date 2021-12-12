@@ -50,7 +50,7 @@ rate_limit(token, "search_tweets")
 #Note: This will ask us permission for direct authentication, type '1' for yes:
 setup_twitter_oauth(api_key,api_secret_key,access_token,access_token_secret)
 #vignette("auth", package = "rtweet")
-# extracting 10000 tweets related to covid based on hashtag
+
 
 # extracting 10000 tweets by searching for bitcoin from twitter
 
